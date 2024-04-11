@@ -5,3 +5,4 @@ function task1(arr) {
 function sortNumberArray(arr) {
     return arr.sort((a, b) => a - b);
 }
+
